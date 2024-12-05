@@ -1,0 +1,13 @@
+.details{
+    padding: 10px;
+    border: 2px;
+    border-radius: 5px;
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+    background-color: #f9f9f9;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 300px;
+}
+
